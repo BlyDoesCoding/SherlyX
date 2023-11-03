@@ -19,7 +19,7 @@ For the original version of Sherly, you can visit [Sherly](https://github.com/Bl
 
 To get started with SherlyX, follow these installation steps:
 
-1. Download the latest release from the [Releases](https://github.com/YourUsername/SherlyX/releases) page.
+1. Download the latest release from the [Releases](https://github.com/BlyDoesCoding/SherlyX/releases) page.
 2. Install the application on your system by following the platform-specific installation instructions.
 
 ## Features
